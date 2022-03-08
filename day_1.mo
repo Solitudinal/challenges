@@ -89,7 +89,7 @@ actor {
     return(new_array)
   }; 
 
-  // Challenge 10
+  // Challenge 10 (come back to this later)
   //public func selection_sort(m : [Nat]) : async [Nat] {
     //var new_array : [Nat] = [];
     //var current : Int = (-1);
