@@ -21,7 +21,7 @@ actor {
     return(sum);
   };
 
-  // Challenge 3 (not complete: come back to this)
+  // Challenge 3
   public func decimal_to_bits(n : Nat) : async Text {
     var binary_array : [Text] = [];
     var num : Nat = n;
@@ -39,7 +39,7 @@ actor {
       binary_array := Array.append<Text>(binary_array, ["0"]);
     };
     for (bit in binary_array.vals()) {
-      bin := bin # bit;
+      bin := bit # bin;
     };
     return(bin);
   };
