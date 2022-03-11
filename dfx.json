@@ -18,11 +18,23 @@
       },
       "day_5": {
         "type": "motoko",
-        "main": "day_4.mo"
+        "main": "day_5.mo"
       },
       "challenge_9": {
         "type": "motoko",
         "main": "challenge_9.mo"
+      },
+      "day_6": {
+        "type": "motoko",
+        "main": "day_6.mo"
+      },
+      "http": {
+        "type": "motoko",
+        "main": "http.mo"
+      },
+      "wallet": {
+        "type": "motoko",
+        "main": "wallet.mo"
       }
     },
     "defaults": {
