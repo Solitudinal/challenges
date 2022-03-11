@@ -7,6 +7,22 @@
       "day_2": {
         "type": "motoko",
         "main": "day_2.mo"
+      },
+      "day_3": {
+        "type": "motoko",
+        "main": "day_3.mo"
+      },
+      "day_4": {
+        "type": "motoko",
+        "main": "day_4.mo"
+      },
+      "day_5": {
+        "type": "motoko",
+        "main": "day_4.mo"
+      },
+      "challenge_9": {
+        "type": "motoko",
+        "main": "challenge_9.mo"
       }
     },
     "defaults": {
